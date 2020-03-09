@@ -1,0 +1,10 @@
+E:\Work\CourseProject\WorldSkills\bin\Debug\WorldSkills.exe.config
+E:\Work\CourseProject\WorldSkills\bin\Debug\WorldSkills.exe
+E:\Work\CourseProject\WorldSkills\bin\Debug\WorldSkills.pdb
+E:\Work\CourseProject\WorldSkills\obj\Debug\WorldSkills.csprojAssemblyReference.cache
+E:\Work\CourseProject\WorldSkills\obj\Debug\WorldSkills.BaseForm.resources
+E:\Work\CourseProject\WorldSkills\obj\Debug\WorldSkills.TitleForm.resources
+E:\Work\CourseProject\WorldSkills\obj\Debug\WorldSkills.Properties.Resources.resources
+E:\Work\CourseProject\WorldSkills\obj\Debug\WorldSkills.csproj.GenerateResource.cache
+E:\Work\CourseProject\WorldSkills\obj\Debug\WorldSkills.exe
+E:\Work\CourseProject\WorldSkills\obj\Debug\WorldSkills.pdb
